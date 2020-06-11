@@ -5,3 +5,4 @@ that outputs a phrase based on where on a screen the user is looking. The device
 and the GUI will have multiple commonly used statements that the user can choose from. 
 
 The software works following the flowchart that is seen below.
+![gaze-flowchart](https://user-images.githubusercontent.com/48992901/84434712-88008600-abfe-11ea-88fb-88280bc1b635.png)
