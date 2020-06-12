@@ -14,3 +14,4 @@ project are:
 - Speaker Module (3.5mm Audio Jack)
 - 5V 3A Power Supply 
 - Enclosure to house components. 
+![GazeSchem](https://user-images.githubusercontent.com/48992901/84456977-74b9de80-ac2f-11ea-85a2-1933bc004b08.JPG)
